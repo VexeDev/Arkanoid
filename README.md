@@ -1,5 +1,5 @@
 # **Arkanoid**
-**Purpose:**
+## **Purpose:**
 This was the first Unity tutorial I followed in a Game Dev class. The game is a basic Arkanoid clone with an added mechanic to spawn extra orbs for the player. The game features basic menu controls. 
 
 ## **Controls:**
