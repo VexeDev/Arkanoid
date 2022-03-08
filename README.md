@@ -15,17 +15,17 @@ This was the first Unity tutorial I followed in a Game Dev class. The game is a 
 6. Select the project to open it (The project was last run in Unity version 2021.1.15f1)
 
 ## **Images/Gifs:**
-![Screenshot](/Demonstration/ss1.png)
+<img src="https://github.com/VexeDev/Arkanoid/blob/main/Demonstration/ss1.png" width="512">
 
 Image of the menu.
 
 
-![Screenshot](/Demonstration/ss2.png)
+<img src="https://github.com/VexeDev/Arkanoid/blob/main/Demonstration/ss2.png" width="512">
 
-Image ofthe game. 
+Image of the game. 
 
 
-![Gif](/Demonstration/demo.gif)
+<img src="https://github.com/VexeDev/Arkanoid/blob/main/Demonstration/demo.gif" width="512">
 
 Gif of the game running. 
 
